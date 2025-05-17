@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS userschema;
+CREATE SCHEMA IF NOT EXISTS productschema;
