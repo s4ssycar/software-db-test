@@ -55,15 +55,15 @@ Alternativ reicht auch die normale Docker Version.
 
 1. Repository klonen:
 
-    git clone <REPOSITORY-URL>
+    git clone https://github.com/s4ssycar/software-db-test
     cd <REPOSITORY-ORDNER>
 
-2. Ordner in Visual Studio Code öffnen
-3. Abhängigkeit im Terminal installieren:
+3. Ordner in Visual Studio Code öffnen
+4. Abhängigkeit im Terminal installieren:
 
-    pip install psycopg2 <-- ist für die Connection der PostgreSQL Datenbank nötig, damit man mit Python auf die DB zugreifen kann
+    pip install psycopg2 <-- ist für die Connection der PostgreSQL Datenbank nötig (mit Python)
 
-4. In das Verzeichnis des Repositorys über die Linux Bash (WSL) öffnen und den Command: docker compose up --build ausführen
+5. In das Verzeichnis des Repositorys über die Linux Bash (WSL) öffnen und den Command: docker compose up --build ausführen
 
 ------------------------------------------------------------
 
