@@ -47,8 +47,8 @@ Alternativ reicht auch die normale Docker Version.
    - Warten, bis „Docker is running“ erscheint (unten in der App)
 5. In der Ubuntu-Konsole prüfen:
 
-    docker --version
-    docker run hello-world
+   docker --version
+   docker run hello-world
 
 ------------------------------------------------------------
 
